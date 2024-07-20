@@ -26,21 +26,24 @@ const thai = {
 
 ## GitHub Stats
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
-  <!-- GitHub Stats -->
-  <div style="flex: 1; display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=duswntmd&show_icons=true&count_private=true&include_all_commits=true&theme=default" alt="GitHub Stats" style="width: 80%; height: auto;"/>
+  <div style="flex: 1; display: flex; justify-content: flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api?username=duswntmd&show_icons=true&count_private=true&include_all_commits=true&theme=default" 
+         alt="GitHub Stats" 
+         style="width: 100%; height: 215px; object-fit: cover;"/>
   </div>
 
-  <!-- Streak Stats -->
   <div style="flex: 1; display: flex; justify-content: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=duswntmd&theme=default" alt="Streak Stats" style="width: 80%; height: auto;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=duswntmd&theme=default" 
+         alt="Streak Stats" 
+         style="width: 100%; height: 200px; object-fit: cover;"/>
   </div>
 
-  <!-- Most Used Languages -->
-  <div style="flex: 1; display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duswntmd&layout=compact&theme=default" alt="Most Used Languages" style="width: 80%; height: auto;"/>
+  <div style="flex: 1; display: flex; justify-content: flex-end;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duswntmd&layout=compact&theme=default" 
+         alt="Most Used Languages" 
+         style="width: 100%; height: 280px; object-fit: cover;"/>
   </div>
 
 </div>
