@@ -24,6 +24,21 @@ const thai = {
 
 ## ⚡ Technologies
 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+
+<hr>
+
 ## GitHub Stats
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
@@ -47,6 +62,8 @@ const thai = {
   </div>
 
 </div>
+
+<hr>
 
 ## Contact
 - **Email**: wnend1010@naver.com - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile) - **GitHub**: [Your GitHub](https://github.com/yourprofile)
