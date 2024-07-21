@@ -66,6 +66,6 @@ const thai = {
 <hr>
 
 ## Contact
-- **Email**: wnend1010@naver.com - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile) - **GitHub**: [Your GitHub](https://github.com/yourprofile)
+- **Email**: wnend1010@naver.com
 
 
