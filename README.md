@@ -44,7 +44,7 @@ const introduce = {
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
   <div style="flex: 1; display: flex; justify-content: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=duswntmd&show_icons=true&count_private=true&include_all_commits=true&theme=default" 
+    <img src="https://github-readme-stats.vercel.app/api?username=duswntmd&show_icons=true&count_private=true&include_all_commits=true&theme=default&token=YOUR_GITHUB_TOKEN"" 
          alt="GitHub Stats" 
          style="width: 100%; height: 215px; object-fit: cover;"/>
   </div>
