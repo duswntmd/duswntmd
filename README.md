@@ -7,15 +7,16 @@ const introduce = {
   code: ["Java", "HTML", "CSS", "JavaScript", "JSP", "Thymeleaf", "Python", "FastAPI", "Arduino", "SQL"],
   tools: ["Spring", "Spring Boot", "Oracle", "MySQL", "Redis", "Git", "GitHub", "Docker", "Jenkins", "AWS", "Nginx"],
   specializedTools: ["OpenCV", "Blender"],
-  goal: ""Full-Stack Big Data (AI) Integration Developer",
-  technical support: {
-                        coorganizer: "Korea Promotion Association and Sungkyul University",
+  goal: "Full-Stack Big Data (AI) Integration Developer Training Course Utilizing Cloud Technologies",
+  technicalSupport: {
+                        coorganizer: "Korea Radio Promotion Association and Sungkyul University",
                         mentor: "Changwoon Kim",
                         mentee: "Juseung Yeon"
                      },
- status: "Preparing for employment",
- ultimateGoal: "To run and manage my own personal website as a developer"
-}
+  status: "Preparing for employment",
+  ultimateGoal: "To run and manage my own personal website as a developer"
+};
+
 ```
 
 <hr>
